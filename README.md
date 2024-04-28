@@ -23,13 +23,7 @@ This project uses Python 3.x. You'll need the following libraries:
 - scipy
 - matplotlib
 
-You can install these packages using pip:
 
-```bash
-pip install numpy scipy matplotlib
-
-
-#####################################
 
 # BlackScholes-Options-Deltas
 
@@ -52,12 +46,7 @@ This project requires Python 3.x and the following Python libraries:
 - scipy
 - matplotlib
 
-Install the required packages using pip:
 
-```bash
-pip install numpy scipy matplotlib
-
-########################################
 
 # DeltaHedge-Visualizer
 
@@ -75,8 +64,3 @@ This project uses Python 3.x and the following libraries:
 - numpy
 - matplotlib
 - scipy
-
-You can install these packages using pip:
-
-```bash
-pip install numpy matplotlib scipy# Options-Futures
